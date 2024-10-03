@@ -1,0 +1,15 @@
+Nome: Lana, Idade: 22, Gênero: F, Renda mensal: 8000.0Nome: Lana, Idade: 22, Gênero: F, Renda mensal: 8000.0Nome: Luisa, Idade: 12, Gênero: F, Renda mensal: 1000.0Nome: penis, Idade: 22, Gênero: F, Renda mensal: 2000.0
+Nome: penis, Idade: 22, Gênero: F, Renda mensal: 2000.0
+Nome: Priquita, Idade: 57, Gênero: F, Renda mensal: 2000.0
+Nome: Lana, Idade: 22, Gênero: F, Renda mensal: 9000.0
+Nome: Lana, Idade: 22, Gênero: F, Renda mensal: 9000.0
+Nome: Lono, Idade: 90, Gênero: M, Renda mensal: 3000.0
+Nome: AAAAAAAAAA, Idade: 22, Gênero: F, Renda mensal: 5.0
+Nome: AAAAAAAAAA, Idade: 22, Gênero: F, Renda mensal: 5.0
+Nome: BBBBBBBBB, Idade: 90, Gênero: F, Renda mensal: 5.0
+Nome: ghf, Idade: 543, Gênero: F, Renda mensal: 5.0
+Nome: ghf, Idade: 543, Gênero: F, Renda mensal: 5.0
+Nome: gfsh, Idade: 543, Gênero: GFDR, Renda mensal: 5.0
+Nome: AAAAAAAAAA, Idade: 342, Gênero: F, Renda mensal: 5.0
+Nome: AAAAAAAAAA, Idade: 342, Gênero: F, Renda mensal: 5.0
+Nome: sfd, Idade: 5432, Gênero: F, Renda mensal: 5.0
